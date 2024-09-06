@@ -4,10 +4,6 @@ import org.example.model.Point;
 import org.example.service.PointService;
 import org.example.util.Scan;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
